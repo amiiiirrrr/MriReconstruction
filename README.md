@@ -10,16 +10,16 @@ Generator model with Encoder and Decoder blocks:
 
 Encoder blocks in Generator:
 
-![Capture](https://user-images.githubusercontent.com/28767607/130683161-2c6665f7-fa16-4f33-a484-c6f14491184d.PNG)
+<img src=https://user-images.githubusercontent.com/28767607/130683161-2c6665f7-fa16-4f33-a484-c6f14491184d.PNG width="500" height="300">
 
 Decoder blocks in Generator:
 
-![Capture](https://user-images.githubusercontent.com/28767607/130683286-35771900-e190-47dc-a158-978124593a83.PNG)
+<img src=https://user-images.githubusercontent.com/28767607/130683286-35771900-e190-47dc-a158-978124593a83.PNG width="500" height="300">
 
 Discriminator model with Decoder blocks:
 
-![Capture](https://user-images.githubusercontent.com/28767607/130683406-dc3b2fc1-d7a7-4be4-bbc0-2e7a2ba881a6.PNG)
+<img src=https://user-images.githubusercontent.com/28767607/130683406-dc3b2fc1-d7a7-4be4-bbc0-2e7a2ba881a6.PNG width="500" height="300">
 
 Decoder blocks in Discriminator:
 
-![Capture](https://user-images.githubusercontent.com/28767607/130683627-ce08ccbc-b827-44f4-92d8-05d531f01f3c.PNG)
+<img src=https://user-images.githubusercontent.com/28767607/130683627-ce08ccbc-b827-44f4-92d8-05d531f01f3c.PNG width="500" height="300">
