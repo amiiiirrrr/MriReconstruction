@@ -1,0 +1,8 @@
+numpy
+Pillow
+scipy
+tensorboard
+tensorflow-gpu
+tensorlayer
+scikit-image
+
