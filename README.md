@@ -1,3 +1,4 @@
+[Generator.pdf](https://github.com/amiiiirrrr/MriReconstruction/files/7041827/Generator.pdf)
 👋 Deep Generative Adversarial Networks(GANs) for Compressive Sensing MRI Reconstruction with improving U-net
 
 
