@@ -5,7 +5,7 @@ This is the official implementation code for [Compressed Sensing MRI Reconstruct
 
 If you use this code for your research, please cite our paper.
 
-```python
+```
 @inproceedings{mousavi2022compressed,
   title={Compressed Sensing MRI Reconstruction Using Improved U-net based on Deep Generative Adversarial Networks},
   author={Mousavi, Seyed Amir and Ahmadzadeh, Mohammad Reza and Yazdian, Ehsan},
